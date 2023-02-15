@@ -1,7 +1,4 @@
 import { useState, useEffect } from "react"
-import Refek from "./Refek"
-
-
 
 
 function App() {
@@ -55,8 +52,6 @@ const [days, setDays] = useState(0)
           </>
         )}
       </center>
-
-      <Refek />
       
     </div>
   );
