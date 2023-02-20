@@ -34,4 +34,5 @@ export default Refek
 //Robimy merging
 //konflikt zalatwiony
 
-//FEATURE1
+Po prostu FEATURE
+
